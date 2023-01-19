@@ -26,6 +26,6 @@ Steps to achieve the goal:-
 
 
 ### Below you will found the working project 
-https://user-images.githubusercontent.com/74559160/213424767-810f5bff-2459-485e-be90-f8d44447e1d5.mp4
+<p aligh="center">https://user-images.githubusercontent.com/74559160/213424767-810f5bff-2459-485e-be90-f8d44447e1d5.mp4</p>
 
 <b>Note: This project is currently ongoing because there are lots of errors and bugs that need to be fixed.</b>
